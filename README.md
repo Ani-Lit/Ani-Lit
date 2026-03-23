@@ -77,7 +77,7 @@ Currently diving deep into **ML algorithms**, **AI systems**, and picking up **R
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ## 📊 GitHub Stats
 
@@ -86,7 +86,7 @@ Currently diving deep into **ML algorithms**, **AI systems**, and picking up **R
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ani-lit&theme=tokyonight&hide_border=true"/>
 
-</div>
+</div> -->
 
 ---
 
@@ -129,6 +129,6 @@ I'm always open to collaborating on **ML projects**, discussing **AI research**,
 
 *"In God we trust; all others must bring data."* — W. Edwards Deming
 
-![Visitor Badge](https://visitor-badge.livelybase.workers.dev/badge?page_id=ani-lit.ani-lit)
+![Profile Views](https://komarev.com/ghpvc/?username=Ani-lit&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
