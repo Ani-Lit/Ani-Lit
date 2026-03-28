@@ -37,8 +37,7 @@ Landing a role at a world-class AI/ML company and contributing to next-generatio
 ---
 
 ## 📈 GitHub Stats
-
-![Anirudha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ani-Lit&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Lit&layout=compact&theme=dark)
 
 ---
 
