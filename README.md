@@ -91,13 +91,6 @@ Architecting a production RAG pipeline: document ingestion → semantic chunking
 
 ---
 
-## 📊 GitHub Stats
-
-![Anirudha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ani-Lit&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-Lit&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🎓 Certifications
 
 | Certification | Issuer |
