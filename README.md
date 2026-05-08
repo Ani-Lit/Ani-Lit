@@ -1,4 +1,3 @@
-[PROFILE_README.md](https://github.com/user-attachments/files/27536529/PROFILE_README.md)
 # Anirudha Kumar — AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudha-kumar-08b216345/)
