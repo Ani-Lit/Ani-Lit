@@ -7,7 +7,7 @@
 
 ---
 
-B.Tech CSE (Artificial Intelligence) · Shoolini University · CGPA: 9.2/10.0
+B.Tech CSE (Artificial Intelligence) · Shoolini University · CGPA: 9.6/10.0
 
 I build end-to-end AI systems — from raw data to deployed production applications. My work spans Computer Vision, NLP, and LLM pipelines, with a focus on shipping things that actually work in the real world.
 
