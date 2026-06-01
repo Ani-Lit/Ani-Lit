@@ -16,7 +16,7 @@ I build end-to-end AI systems — from raw data to deployed production applicati
 ## 🚀 Featured Projects
 
 ### 🪖 Real-Time Helmet & Head Detection
-> Fine-tuned YOLOv8m on 5,000+ annotated instances — **mAP50: 0.968 · mAP50-95: 0.645**
+> Fine-tuned YOLOv8m on 25,000+ annotated instances — **mAP50: 0.968 · mAP50-95: 0.645**
 
 Built a production-grade safety helmet detection system trained on dual T4 GPUs and deployed as a live web application. Detects helmets and bare heads in real time for construction and industrial safety monitoring.
 
